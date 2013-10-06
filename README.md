@@ -1,8 +1,4 @@
-Ejercicio02Junit
-================
+ejercicioPalindromo
+===================
 
-
-[![Build Status](https://secure.travis-ci.org/ereglion/Ejercicio02Junit.png)](http://travis-ci.org/ereglion/Ejercicio02Junit)
-
-
-Ejercicio02Junit
+Creamos una clase de java y un test de Junit
